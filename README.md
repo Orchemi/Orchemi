@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 🌱 <b>Self-study</b> : Python
 
-🏫 <b>Now Learning</b> : Python
+🏫 <b>Now Learning</b> : [![HTML](https://img.shields.io/badge/HTML-FFFFFF?logo=HTML&logoColor=black)](https://github.com/topics/HTML)
 
-🎮 <b>Interest</b> : ![Github](https://img.shields.io/badge/Github%20Blog-392F31?logo=Github&logoColor=white) 
+🎮 <b>Interest</b> : [![Github](https://img.shields.io/badge/Github%20Blog-392F31?logo=Github&logoColor=white)](https://github.com/topics/Github)
 
 📞 <b>Contact</b> : [![Github](http://img.shields.io/badge/-Github%20Blog-black?style=flat-square&logo=github&link=https://Orchemi.github.io/)](https://Orchemi.github.io/)
 
