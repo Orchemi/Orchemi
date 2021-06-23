@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ![soft](https://capsule-render.vercel.app/api?height=80&type=soft&color=ffd700&text=HAPPY%20DEVELOPER,%20Orchemi&fontColor=ffffff&fontSize=30)
 
 📚 <b>Technology Stack (Programming Language)</b> : 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](https://github.com/topics/python)
+[![Markdown](https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white)](https://github.com/topics/Markdown)
 
 🌱 <b>Self-study</b> : Python
 
 🏫 <b>Now Learning</b> : Python
 
-🎮 <b>Interest</b> :  
+🎮 <b>Interest</b> : ![Github](https://img.shields.io/badge/Github%20Blog-392F31?logo=Github&logoColor=white) 
 
 📞 <b>Contact</b> : [![Github](http://img.shields.io/badge/-Github%20Blog-black?style=flat-square&logo=github&link=https://Orchemi.github.io/)](https://Orchemi.github.io/)
 
