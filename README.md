@@ -31,9 +31,12 @@ Markdown / HTML / CSS
 
 ♥ <b>Social Return</b> : 💪 Volunteer / 🎗Organ-donation / 🩸 Blood-donation / 💰 Donation
 
-🏫 <b>Career</b> <br/>
 
 <!-- 
+
+🏫 <b>Career</b> <br/>
+
+
   * 📍 충남대학교 응용화학공학과 재학(2016-)<br>
   * 📍 충남대학교 제 51대 공과대학 학생회 [BETTER-E] 사무차장(2019)<br>
   * 📍 충남대학교 교내봉사단 [백마봉사단] 운영위원(2019)<br>
