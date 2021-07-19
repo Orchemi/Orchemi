@@ -27,7 +27,7 @@ Markdown / HTML / CSS
 
 ✒ <b>Now Learning</b> : Github / Python
 
-💡 <b>Interest</b> : Github Page Customizing
+💡 <b>Interest</b> : Github Page Customizing / Office Automation
 
 ♥ <b>Social Return</b> : 💪 Volunteer / 🎗Organ-donation / 🩸 Blood-donation / 💰 Donation
 
