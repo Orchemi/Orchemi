@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Markdown / HTML / CSS
 
-✒ <b>Now Learning</b> : Github / Git
+✒ <b>Now Learning</b> : Git
 
 💡 <b>Interest</b> : Github Page Customizing / Office Automation
 
