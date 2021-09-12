@@ -25,14 +25,13 @@ Here are some ideas to get you started:
 
 Markdown / HTML / CSS
 
-✒ <b>Now Learning</b> : Github / Python
+✒ <b>Now Learning</b> : Github / Git
 
 💡 <b>Interest</b> : Github Page Customizing / Office Automation
 
 ♥ <b>Social Return</b> : 💪 Volunteer / 🎗Organ-donation / 🩸 Blood-donation / 💰 Donation
 
-
-<!-- 
+<!--
 
 🏫 <b>Career</b> <br/>
 
@@ -42,7 +41,7 @@ Markdown / HTML / CSS
   * 📍 충남대학교 교내봉사단 [백마봉사단] 운영위원(2019)<br>
   * 📍 충남대학교 제 6대 응용화학공학과 학생회 [FRAME] 학생회장(2020)<br>
 -->
-  
+
 <br>
 
 ![soft](https://capsule-render.vercel.app/api?height=10&type=soft&color=d3f477&fontColor=ffffff&fontSize=30&section=footer)<br/>
@@ -54,13 +53,9 @@ Markdown / HTML / CSS
 
 ![soft](https://capsule-render.vercel.app/api?height=10&type=soft&color=d3f477&fontColor=ffffff&fontSize=30&section=footer)
 
-
-
-
-<!-- 
+<!--
 Github Blog button : [![Github](https://img.shields.io/badge/Github%20Blog-392F31?logo=Github&logoColor=white)](https://github.com/topics/Github)
 Markdown button : [![Markdown](https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white)](https://github.com/topics/Markdown)
 
 📞 <b>Contact</b> : [![Github](http://img.shields.io/badge/-Github%20Blog-black?style=flat-square&logo=github&link=https://Orchemi.github.io/)](https://Orchemi.github.io/)
 -->
-
