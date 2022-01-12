@@ -33,7 +33,7 @@ Markdown / HTML / CSS
 
 <!--
 
-🏫 <b>Career</b> <br/>
+🏫 <b>Career</b> <br>
 
 
   * 📍 충남대학교 응용화학공학과 재학(2016-)<br>
@@ -44,12 +44,12 @@ Markdown / HTML / CSS
 
 <br>
 
-![soft](https://capsule-render.vercel.app/api?height=10&type=soft&color=d3f477&fontColor=ffffff&fontSize=30&section=footer)<br/>
+![soft](https://capsule-render.vercel.app/api?height=10&type=soft&color=d3f477&fontColor=ffffff&fontSize=30&section=footer)<br>
 
 <br>
 
 [![Orchemi's github stats](https://github-readme-stats.vercel.app/api?username=Orchemi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orchemi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orchemi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 ![soft](https://capsule-render.vercel.app/api?height=10&type=soft&color=d3f477&fontColor=ffffff&fontSize=30&section=footer)
 
