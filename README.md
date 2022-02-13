@@ -38,20 +38,39 @@
 
 ### Frontend
 
-![Markdown](https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white)
+<a href="https://orchemi.github.io/blogdev/Blog_How-To-Use-Markdown/">
+<img src="https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white"> <!-- Markdown -->
+</a>
+<a href="https://orchemi.github.io/categories/html">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <!-- HTML5 -->
+</a>
+<a href="https://orchemi.github.io/blogdev/Blog_Liquid_study/">
+<img src="https://img.shields.io/badge/-💧%20Liquid-blue"> <!-- Liquid -->
+</a>
+<a href="https://orchemi.github.io/categories/css">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <!-- CSS3 -->
+</a>
+<a href="https://orchemi.github.io/categories/bootstrap">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
+</a>
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white)
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></a> <!-- Jupyter Notebook -->
+<a href="https://orchemi.github.io/categories/python_lang">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> <!-- Python -->
+</a>
+<a href="https://orchemi.github.io/categories/js">
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> <!-- Jupyter Notebook -->
+</a>
 
 ### Learning Now
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+<a href="https://orchemi.github.io/categories/js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
+</a>
 
 <br>
 
@@ -67,11 +86,27 @@
 
 ### 💡 Personal Interest
 
-`🔧 Github Page Customizing` `⛓ Office Automation`
+<a href="https://orchemi.github.io/categories/blogdev">
+  <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20Github%20Page%20Customizing-2c2e32">
+</a>
+<a>
+  <img src="https://img.shields.io/badge/-%F0%9F%94%A9%20Office%20Automation-lightgrey">
+</a>
 
 ### ♥ Social Return
 
-`💪 Volunteer` `🎗Organ-donation` `🩸 Blood-donation` `💰 Donation`
+<a href="https://orchemi.github.io/categories/psr">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20Volunteer-important">
+</a>
+<a href="https://orchemi.github.io/categories/psr">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%9A%20Organ--donation-green">
+</a>
+<a href="https://orchemi.github.io/categories/psr">
+  <img src="https://img.shields.io/badge/-%F0%9F%A9%B8%20Blood--donation-red">
+</a>
+<a href="https://orchemi.github.io/categories/psr">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%B0%20Donation-yellow">
+</a>
 
 <!--
 
