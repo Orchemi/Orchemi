@@ -1,24 +1,3 @@
-<!--
-**Orchemi/I-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📝 :memo:
-- 💻 :computer:
-- 😊 :blush:
--->
-
 ![soft](https://capsule-render.vercel.app/api?height=80&type=soft&color=2c2e32&text="가슴이%20뛰는%20일을%20하러%20이%20곳에%20오다"&fontColor=ffbf00&fontSize=30)
 
 [![TechBlog Badge](https://img.shields.io/badge/Tech_Blog-2c2e32?style=flat&logo=GitHub&logoColor=ffbf00)](https://orchemi.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tmdgns971126@gmail.com)
@@ -53,11 +32,9 @@ Here are some ideas to get you started:
 
 ### Editer
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-494c4f?style=flat&logo=IntelliJIDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-30a14e?style=flat&logo=PyCharm&logoColor=white"/></a>
-
-<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ-IDEA-494c4f?style=flat&logo=IntelliJIDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-30a14e?style=flat&logo=PyCharm&logoColor=white)
 
 ### Frontend
 
@@ -66,18 +43,12 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 
-<br>
-
-<br>
-
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></a> <!-- Jupyter Notebook -->
 
-<br>
-
-### ✒ Learning Now
+### Learning Now
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
@@ -96,8 +67,6 @@ Here are some ideas to get you started:
 ### 💡 Personal Interest
 
 `🔧 Github Page Customizing` `⛓ Office Automation`
-
-<br>
 
 ### ♥ Social Return
 
