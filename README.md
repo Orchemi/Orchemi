@@ -40,8 +40,8 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white)
 
 ### Backend
 
