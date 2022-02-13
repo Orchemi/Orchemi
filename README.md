@@ -53,7 +53,7 @@
 <a href="https://orchemi.github.io/categories/bootstrap">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
 </a>
-<a href="">
+<a>
 <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
 </a>
 
@@ -62,7 +62,7 @@
 <a href="https://orchemi.github.io/categories/python_lang">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> <!-- Python -->
 </a>
-<a href="https://orchemi.github.io/categories/js">
+<a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> <!-- Jupyter Notebook -->
 </a>
 
