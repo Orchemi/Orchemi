@@ -30,11 +30,16 @@
 
 <br> -->
 
+<!-- 
 ### Editer
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ-IDEA-494c4f?style=flat&logo=IntelliJIDEA&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-30a14e?style=flat&logo=PyCharm&logoColor=white)
+<a>
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> <!-- Jupyter Notebook
+</a>
+-->
 
 ### Frontend
 
@@ -56,20 +61,17 @@
 <a>
 <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
 </a>
+<a href="https://orchemi.github.io/categories/js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
+</a>
 
 ### Backend
 
 <a href="https://orchemi.github.io/categories/python_lang">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> <!-- Python -->
 </a>
-<a>
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> <!-- Jupyter Notebook -->
-</a>
-
-### Now Learning
-
-<a href="https://orchemi.github.io/categories/js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
+<a href="https://orchemi.github.io/categories/django">
+<img src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=Django&logoColor=white"> <!-- Django -->
 </a>
 
 <br>
