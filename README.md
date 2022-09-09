@@ -58,9 +58,7 @@
 <a href="https://orchemi.github.io/categories/bootstrap">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
 </a>
-<a>
 <img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
-</a>
 <a href="https://orchemi.github.io/categories/js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
 </a> <!-- JavaScript -->
@@ -85,27 +83,11 @@
 <a href="https://orchemi.github.io/categories/django">
 <img src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=Django&logoColor=white"> <!-- Django -->
 </a>
-<a>
 <img src="https://img.shields.io/badge/Node.js-7fc728?style=flat&logo=node.js&logoColor=white"> <!-- node.js -->
-</a>
 
 ### DevOps
 
-<a>
-<img src="https://img.shields.io/badge/git-e84c31?style=flat&logo=git&logoColor=white"> <!-- git -->
-</a>
-<a>
-<img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"> <!-- github -->
-</a>
-<a>
-<img src="https://img.shields.io/badge/GitLab-1b242b?style=flat&logo=gitlab&logoColor=white"> <!-- gitlab -->
-</a>
-<a>
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> <!-- Notion -->
-</a>
-<a>
-<img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"> <!-- JIRA -->
-</a>
+<img src="https://img.shields.io/badge/git-e84c31?style=flat&logo=git&logoColor=white"> <!-- git --> <img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"> <!-- github --> <img src="https://img.shields.io/badge/GitLab-1b242b?style=flat&logo=gitlab&logoColor=white"> <!-- gitlab --> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> <!-- Notion --> <img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"> <!-- JIRA -->
 
 
 <br>
@@ -121,10 +103,7 @@
 **💡 Personal Interest** : 
 <a href="https://orchemi.github.io/categories/blogdev">
   <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20GitHub%20Page%20Customizing-2c2e32">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/-%F0%9F%94%A9%20Office%20Automation-lightgrey">
-</a>
+</a> <img src="https://img.shields.io/badge/-%F0%9F%94%A9%20Office%20Automation-lightgrey">
 
 **:heart: Social Return** : 
 <a href="https://orchemi.github.io/categories/psr">
