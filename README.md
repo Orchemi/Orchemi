@@ -43,27 +43,39 @@
 
 ### Frontend
 
-<a href="https://orchemi.github.io/blogdev/Blog_How-To-Use-Markdown/">
-<img src="https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white"> <!-- Markdown -->
-</a>
+<!-- <a href="https://orchemi.github.io/blogdev/Blog_How-To-Use-Markdown/">
+<img src="https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white"> Markdown 
+</a> -->
 <a href="https://orchemi.github.io/categories/html">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <!-- HTML5 -->
 </a>
-<a href="https://orchemi.github.io/blogdev/Blog_Liquid_study/">
-<img src="https://img.shields.io/badge/-💧%20Liquid-blue"> <!-- Liquid -->
-</a>
+<!-- <a href="https://orchemi.github.io/blogdev/Blog_Liquid_study/">
+<img src="https://img.shields.io/badge/-💧%20Liquid-blue"> Liquid
+</a> -->
 <a href="https://orchemi.github.io/categories/css">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <!-- CSS3 -->
 </a>
 <a href="https://orchemi.github.io/categories/bootstrap">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
 </a>
+<a>
+<img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
+</a>
 <a href="https://orchemi.github.io/categories/js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
 </a> <!-- JavaScript -->
-<a>
+<a href="https://orchemi.github.io/categories/ts">
+  <img src="https://img.shields.io/badge/TypeScript-2f75c0?style=flat&logo=TypeScript&logoColor=white"> 
+</a> <!-- TypeScript -->
+<a href="https://orchemi.github.io/categories/scss">
 <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
 </a>
+<a href="https://orchemi.github.io/categories/vue">
+  <img src="https://img.shields.io/badge/Vue3-41b883?style=flat&logo=Vuedotjs&logoColor=white"> 
+</a> <!-- Vue.js -->
+<a href="https://orchemi.github.io/categories/vue">
+  <img src="https://img.shields.io/badge/React-00c8ff?style=flat&logo=React&logoColor=white"> 
+</a> <!-- React -->
 
 ### Backend
 
@@ -73,6 +85,28 @@
 <a href="https://orchemi.github.io/categories/django">
 <img src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=Django&logoColor=white"> <!-- Django -->
 </a>
+<a>
+<img src="https://img.shields.io/badge/Node.js-7fc728?style=flat&logo=node.js&logoColor=white"> <!-- node.js -->
+</a>
+
+### DevOps
+
+<a>
+<img src="https://img.shields.io/badge/git-e84c31?style=flat&logo=git&logoColor=white"> <!-- git -->
+</a>
+<a>
+<img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"> <!-- github -->
+</a>
+<a>
+<img src="https://img.shields.io/badge/GitLab-1b242b?style=flat&logo=gitlab&logoColor=white"> <!-- gitlab -->
+</a>
+<a>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> <!-- Notion -->
+</a>
+<a>
+<img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"> <!-- JIRA -->
+</a>
+
 
 <br>
 
@@ -82,21 +116,17 @@
 
 ## More About Me
 
-<div>
-
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=orchemi&show_icons=true" height="160"> -->
 
-### 💡 Personal Interest
-
+**💡 Personal Interest** : 
 <a href="https://orchemi.github.io/categories/blogdev">
-  <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20Github%20Page%20Customizing-2c2e32">
+  <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20GitHub%20Page%20Customizing-2c2e32">
 </a>
 <a>
   <img src="https://img.shields.io/badge/-%F0%9F%94%A9%20Office%20Automation-lightgrey">
 </a>
 
-### ♥ Social Return
-
+**:heart: Social Return** : 
 <a href="https://orchemi.github.io/categories/psr">
   <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20Volunteer-important">
 </a>
@@ -114,18 +144,7 @@
 
 🏫 <b>Career</b> <br>
 
-
-  * 📍 충남대학교 응용화학공학과 재학(2016-)<br>
-  * 📍 충남대학교 제 51대 공과대학 학생회 [BETTER-E] 사무차장(2019)<br>
-  * 📍 충남대학교 교내봉사단 [백마봉사단] 운영위원(2019)<br>
-  * 📍 충남대학교 제 6대 응용화학공학과 학생회 [FRAME] 학생회장(2020)<br>
--->
-
-<br>
-
-<!--
-Github Blog button : [![Github](https://img.shields.io/badge/Github%20Blog-392F31?logo=Github&logoColor=white)](https://github.com/topics/Github)
-Markdown button : [![Markdown](https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white)](https://github.com/topics/Markdown)
-
-📞 <b>Contact</b> : [![Github](http://img.shields.io/badge/-Github%20Blog-black?style=flat-square&logo=github&link=https://Orchemi.github.io/)](https://Orchemi.github.io/)
+  * 📍 충남대학교 제 51대 공과대학 학생회 사무차장(2019)<br>
+  * 📍 충남대학교 교내봉사단(2019)<br>
+  * 📍 충남대학교 제 6대 응용화학공학과 학생회장(2020)<br>
 -->
