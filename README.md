@@ -47,19 +47,19 @@
 <img src="https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white"> Markdown 
 </a> -->
 <a href="https://orchemi.github.io/categories/html">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <!-- HTML5 -->
 </a>
 <!-- <a href="https://orchemi.github.io/blogdev/Blog_Liquid_study/">
 <img src="https://img.shields.io/badge/-💧%20Liquid-blue"> Liquid
 </a> -->
 <a href="https://orchemi.github.io/categories/css">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <!-- CSS3 -->
 </a>
 <a href="https://orchemi.github.io/categories/bootstrap">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
 </a>
 <a href="https://orchemi.github.io/">
-<img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
 </a>
 <a href="https://orchemi.github.io/categories/js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/TypeScript-2f75c0?style=flat&logo=TypeScript&logoColor=white"> 
 </a> <!-- TypeScript -->
 <a href="https://orchemi.github.io/categories/scss">
-<img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
+  <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
 </a>
 <a href="https://orchemi.github.io/categories/vue">
   <img src="https://img.shields.io/badge/Vue3-41b883?style=flat&logo=Vuedotjs&logoColor=white"> 
@@ -80,12 +80,14 @@
 ### Backend
 
 <a href="https://orchemi.github.io/categories/python_lang">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> <!-- Python -->
 </a>
 <a href="https://orchemi.github.io/categories/django">
-<img src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=Django&logoColor=white"> <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=Django&logoColor=white"> <!-- Django -->
 </a>
-<img src="https://img.shields.io/badge/Node.js-7fc728?style=flat&logo=node.js&logoColor=white"> <!-- node.js -->
+<a href="https://orchemi.github.io/">
+  <img src="https://img.shields.io/badge/Node.js-7fc728?style=flat&logo=node.js&logoColor=white"> <!-- node.js -->
+</a>
 
 ### DevOps
 
