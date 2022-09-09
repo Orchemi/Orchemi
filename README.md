@@ -58,7 +58,9 @@
 <a href="https://orchemi.github.io/categories/bootstrap">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
 </a>
+<a href="https://orchemi.github.io/">
 <img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
+</a>
 <a href="https://orchemi.github.io/categories/js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
 </a> <!-- JavaScript -->
