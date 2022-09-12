@@ -55,27 +55,29 @@
 <a href="https://orchemi.github.io/categories/css">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <!-- CSS3 -->
 </a>
+<a href="https://orchemi.github.io/categories/scss">
+  <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
+</a>
+<a href="https://orchemi.github.io/categories/js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> <!-- JavaScript -->
+</a>
+<a href="https://orchemi.github.io/categories/ts">
+  <img src="https://img.shields.io/badge/TypeScript-2f75c0?style=flat&logo=TypeScript&logoColor=white"> <!-- TypeScript -->
+</a> 
+<br>
+<a href="https://orchemi.github.io/categories/vue">
+  <img src="https://img.shields.io/badge/Vue3-41b883?style=flat&logo=Vuedotjs&logoColor=white"> <!-- Vue.js -->
+</a> 
+<a href="https://orchemi.github.io/categories/vue">
+  <img src="https://img.shields.io/badge/React-00c8ff?style=flat&logo=React&logoColor=white"> <!-- React -->
+</a> 
+<br>
 <a href="https://orchemi.github.io/categories/bootstrap">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
 </a>
 <a href="https://orchemi.github.io/">
   <img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
 </a>
-<a href="https://orchemi.github.io/categories/js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> 
-</a> <!-- JavaScript -->
-<a href="https://orchemi.github.io/categories/ts">
-  <img src="https://img.shields.io/badge/TypeScript-2f75c0?style=flat&logo=TypeScript&logoColor=white"> 
-</a> <!-- TypeScript -->
-<a href="https://orchemi.github.io/categories/scss">
-  <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
-</a>
-<a href="https://orchemi.github.io/categories/vue">
-  <img src="https://img.shields.io/badge/Vue3-41b883?style=flat&logo=Vuedotjs&logoColor=white"> 
-</a> <!-- Vue.js -->
-<a href="https://orchemi.github.io/categories/vue">
-  <img src="https://img.shields.io/badge/React-00c8ff?style=flat&logo=React&logoColor=white"> 
-</a> <!-- React -->
 
 ### Backend
 
