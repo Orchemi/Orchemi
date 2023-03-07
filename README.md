@@ -14,9 +14,9 @@
 - 👨‍🎓 **Bachelor** of Engineering
 - 👨‍🔬 in Chemical Engineering
 - 🏫 at Chungnam National University
-- 👨‍💻 **Studying** Web Programming
+- 👨‍💻 Studied Web Programming
 - 🏫 in SSAFY 7th
-- 🦸‍♂️ **Wanna be** a **FE Programmer**
+- 🦸‍♂️ **Finally Became** a **FE Programmer!!**
 
 </div>
 
