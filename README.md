@@ -11,11 +11,9 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgns1126">
 
 - 🙋‍♂️ Hello, I'm **Orchemi**
-- 👨‍🎓 **Bachelor** of Engineering
-- 👨‍🔬 in Chemical Engineering
+- 👨‍🎓 **Bachelor** of Engineering in Chemical Engineering
 - 🏫 at Chungnam National University
-- 👨‍💻 Studied Web Programming
-- 🏫 in SSAFY 7th
+- 👨‍💻 Studied Web Programming in SSAFY 7th
 - 🦸‍♂️ **Finally Became** a **FE Programmer!!**
 
 </div>
@@ -68,8 +66,11 @@
 <a href="https://orchemi.github.io/categories/vue">
   <img src="https://img.shields.io/badge/Vue3-41b883?style=flat&logo=Vuedotjs&logoColor=white"> <!-- Vue.js -->
 </a> 
-<a href="https://orchemi.github.io/categories/vue">
+<a href="https://orchemi.github.io/categories/reactjs">
   <img src="https://img.shields.io/badge/React-00c8ff?style=flat&logo=React&logoColor=white"> <!-- React -->
+</a> 
+<a href="">
+  <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=NEXTdotjs&logoColor=white"> <!-- Next -->
 </a> 
 <br>
 <a href="https://orchemi.github.io/categories/bootstrap">
@@ -91,9 +92,9 @@
   <img src="https://img.shields.io/badge/Node.js-7fc728?style=flat&logo=node.js&logoColor=white"> <!-- node.js -->
 </a>
 
-### DevOps
+### Etc
 
-<img src="https://img.shields.io/badge/git-e84c31?style=flat&logo=git&logoColor=white"> <!-- git --> <img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"> <!-- github --> <img src="https://img.shields.io/badge/GitLab-1b242b?style=flat&logo=gitlab&logoColor=white"> <!-- gitlab --> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> <!-- Notion --> <img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"> <!-- JIRA -->
+<img src="https://img.shields.io/badge/git-e84c31?style=flat&logo=git&logoColor=white"> <!-- git --> <img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"> <!-- github --> <img src="https://img.shields.io/badge/GitLab-1b242b?style=flat&logo=gitlab&logoColor=white"> <!-- gitlab --> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> <!-- Notion --> <img src="https://img.shields.io/badge/Bitbucket-2583fe?style=flat&logo=Bitbucket&logoColor=white"> <!-- Confluence --> <img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"> <!-- JIRA --> <img src="https://img.shields.io/badge/Confluence-2583fe?style=flat&logo=CONFLUENCE&logoColor=white"> <!-- Confluence -->
 
 
 <br>
