@@ -1,135 +1,32 @@
-[![TechBlog Badge](https://img.shields.io/badge/Tech_Blog-000000?style=flat&logo=git&logoColor=ffffff)](https://blog.huns.site/) [![Mail Badge](https://img.shields.io/badge/Mail-41BE55?style=flat&logo=naver&logoColor=white)](mailto:tmdgns971126@gmail.com)
+## Introduce
 
+> 3년차 프론트엔드 개발자 박승훈입니다.
 
-<br>
-
-## About Me
-
-<div>
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgns1126">
-
-- 🙋‍♂️ Hello, I'm **Orchemi**
-- 👨‍🎓 **Bachelor** of Engineering in Chemical Engineering
-- 🏫 at Chungnam National University
-- 👨‍💻 Studied Web Programming in SSAFY 7th
-- 🦸‍♂️ **Finally Became** a **FE Programmer!!**
-
-</div>
+- 화학공학을 전공했지만 개발이 너무 좋아 개발자에 뛰어들었습니다.
+- 꾸준히 학습하고 개발하며 성장하는 과정을 즐깁니다.
+- 사용자에게 가치 있는 서비스를 만들 때 보람을 느낍니다.
+- 더 좋은 코드에 대해 고민하고 있습니다.
 
 <br>
 
-## My Skills
+## Informations
 
-<!-- https://github.com/topics/ -->
+- [Huns Log](https://blog.huns.site/) : 자아실현과 정보 공유를 위한, NextJs 기반 기술 블로그
+- [LinkedIn](https://www.linkedin.com/in/seunghun-park/) : 온라인 기술 교류 및 네트워킹을 위한 SNS
 
-<!-- ### 💪 I'm good at
+<br />
 
-<br> -->
+## Activities
+- 2024.10 _ 글또(글쓰는 또라이가 세상을 바꾼다) 10기([링크](https://blog.huns.site/blog/posts/personal/diary/join-to-geultto-10th))
+- 2024.08 _ Toss Frontend Accelerator 멘토링 1기([링크](https://blog.huns.site/blog/posts/personal/diary/toss-accelerator-mentoring-1st))
+- 2024.08 _ Junction Asia 2024 해커톤 서포터즈
+- 2022.12 _ 삼성청년SW아카데미 7기 수료([링크](https://blog.huns.site/blog/posts/personal/ssafy/review-4q))
 
-<!-- 
-### Editer
+<br />
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
-![Intellij IDEA](https://img.shields.io/badge/IntelliJ-IDEA-494c4f?style=flat&logo=IntelliJIDEA&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-30a14e?style=flat&logo=PyCharm&logoColor=white)
-<a>
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> <!-- Jupyter Notebook
-</a>
--->
+## OpenSource
 
-### Frontend
-
-<!-- <a href="https://orchemi.github.io/blogdev/Blog_How-To-Use-Markdown/">
-<img src="https://img.shields.io/badge/Markdown-392F31?logo=Markdown&logoColor=white"> Markdown 
-</a> -->
-<a href="https://orchemi.github.io/categories/html">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <!-- HTML5 -->
-</a>
-<!-- <a href="https://orchemi.github.io/blogdev/Blog_Liquid_study/">
-<img src="https://img.shields.io/badge/-💧%20Liquid-blue"> Liquid
-</a> -->
-<a href="https://orchemi.github.io/categories/css">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <!-- CSS3 -->
-</a>
-<a href="https://orchemi.github.io/categories/scss">
-  <img src="https://img.shields.io/badge/SCSS-ff69b4?style=flat&logo=Sass&logoColor=white"> <!-- SCSS -->
-</a>
-<a href="https://orchemi.github.io/categories/js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> <!-- JavaScript -->
-</a>
-<a href="https://orchemi.github.io/categories/ts">
-  <img src="https://img.shields.io/badge/TypeScript-2f75c0?style=flat&logo=TypeScript&logoColor=white"> <!-- TypeScript -->
-</a> 
-<br>
-<a href="https://orchemi.github.io/categories/vue">
-  <img src="https://img.shields.io/badge/Vue3-41b883?style=flat&logo=Vuedotjs&logoColor=white"> <!-- Vue.js -->
-</a> 
-<a href="https://orchemi.github.io/categories/reactjs">
-  <img src="https://img.shields.io/badge/React-00c8ff?style=flat&logo=React&logoColor=white"> <!-- React -->
-</a> 
-<a href="">
-  <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=NEXTdotjs&logoColor=white"> <!-- Next -->
-</a> 
-<br>
-<a href="https://orchemi.github.io/categories/bootstrap">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"> <!-- Bootstrap -->
-</a>
-<a href="https://orchemi.github.io/">
-  <img src="https://img.shields.io/badge/Figma-f07050?style=flat&logo=Figma&logoColor=white"> <!-- Figma -->
-</a>
-
-### Backend
-
-<a href="https://orchemi.github.io/categories/python_lang">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> <!-- Python -->
-</a>
-<a href="https://orchemi.github.io/categories/django">
-  <img src="https://img.shields.io/badge/Django-0c4b33?style=flat&logo=Django&logoColor=white"> <!-- Django -->
-</a>
-<a href="https://orchemi.github.io/">
-  <img src="https://img.shields.io/badge/Node.js-7fc728?style=flat&logo=node.js&logoColor=white"> <!-- node.js -->
-</a>
-
-### Etc
-
-<img src="https://img.shields.io/badge/git-e84c31?style=flat&logo=git&logoColor=white"> <!-- git --> <img src="https://img.shields.io/badge/GitHub-1b242b?style=flat&logo=github&logoColor=white"> <!-- github --> <img src="https://img.shields.io/badge/GitLab-1b242b?style=flat&logo=gitlab&logoColor=white"> <!-- gitlab --> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"> <!-- Notion --> <img src="https://img.shields.io/badge/Bitbucket-2583fe?style=flat&logo=Bitbucket&logoColor=white"> <!-- Confluence --> <img src="https://img.shields.io/badge/JIRA-2583fe?style=flat&logo=JIRA&logoColor=white"> <!-- JIRA --> <img src="https://img.shields.io/badge/Confluence-2583fe?style=flat&logo=CONFLUENCE&logoColor=white"> <!-- Confluence -->
-
-
-<br>
-
-<!-- ### 🤩 I'll learn
-
-<br> -->
-
-## More About Me
-
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=orchemi&show_icons=true" height="160"> -->
-
-**💡 Personal Interest** : 
-<a href="https://orchemi.github.io/categories/blogdev">
-  <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20GitHub%20Page%20Customizing-2c2e32">
-</a> <img src="https://img.shields.io/badge/-%F0%9F%94%A9%20Office%20Automation-lightgrey">
-
-**:heart: Social Return** : 
-<a href="https://orchemi.github.io/categories/psr">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%AA%20Volunteer-important">
-</a>
-<a href="https://orchemi.github.io/categories/psr">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%9A%20Organ--donation-green">
-</a>
-<a href="https://orchemi.github.io/categories/psr">
-  <img src="https://img.shields.io/badge/-%F0%9F%A9%B8%20Blood--donation-red">
-</a>
-<a href="https://orchemi.github.io/categories/psr">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%B0%20Donation-yellow">
-</a>
-
-<!--
-
-🏫 <b>Career</b> <br>
-
-  * 📍 충남대학교 제 51대 공과대학 학생회 사무차장(2019)<br>
-  * 📍 충남대학교 교내봉사단(2019)<br>
-  * 📍 충남대학교 제 6대 응용화학공학과 학생회장(2020)<br>
--->
+- 2024.11 _ [react-flow](https://reactflow.dev) 공식문서 오타/오류 수정([링크](https://github.com/xyflow/web/pulls?q=is%3Apr+author%3AOrchemi+is%3Aclosed))
+- 2023.07 _ NextJs 한글 문서 번역([#259 - eslint.mdx](https://github.com/Nextjs-kr/Nextjs.kr/pull/259))
+- 2023.06 _ React 한글 문서 번역([#687 - React Conf 2021 Recap](https://github.com/reactjs/ko.react.dev/pull/687))
+- 2023.05 _ React 한글 문서 번역([#650 - Updating arrays in state](https://github.com/reactjs/ko.react.dev/pull/650))
