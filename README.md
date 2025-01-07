@@ -1,6 +1,5 @@
-<!-- ![soft](https://capsule-render.vercel.app/api?height=80&type=soft&color=2c2e32&text="가슴이%20뛰는%20일을%20하러%20이%20곳에%20오다"&fontColor=ffbf00&fontSize=30) -->
+[![TechBlog Badge](https://img.shields.io/badge/Tech_Blog-000000?style=flat&logo=git&logoColor=ffffff)](https://blog.huns.site/) [![Mail Badge](https://img.shields.io/badge/Mail-41BE55?style=flat&logo=naver&logoColor=white)](mailto:tmdgns971126@gmail.com)
 
-[![TechBlog Badge](https://img.shields.io/badge/Tech_Blog-2c2e32?style=flat&logo=GitHub&logoColor=ffbf00)](https://orchemi.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tmdgns971126@gmail.com)
 
 <br>
 
