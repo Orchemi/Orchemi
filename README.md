@@ -19,7 +19,7 @@
 ## Activities
 - 2024.10 글또(글쓰는 또라이가 세상을 바꾼다) 10기([링크](https://blog.huns.site/blog/posts/personal/diary/join-to-geultto-10th))
 - 2024.08 Toss Frontend Accelerator 멘토링 1기([링크](https://blog.huns.site/blog/posts/personal/diary/toss-accelerator-mentoring-1st))
-- 2024.08 Junction Asia 2024 해커톤 서포터즈
+- 2024.08 Junction Asia 2024 해커톤 서포터즈([링크](https://blog.huns.site/blog/posts/personal/diary/retrospect-of-2024#junction-asia-%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88))
 - 2022.12 삼성청년SW아카데미 7기 수료([링크](https://blog.huns.site/blog/posts/personal/ssafy/review-4q))
 
 <br />
