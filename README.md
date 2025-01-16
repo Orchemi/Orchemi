@@ -12,6 +12,7 @@
 ## Informations
 
 - [Huns Log](https://blog.huns.site/) : 자아실현과 정보 공유를 위한, NextJs 기반 기술 블로그
+- [Portfolio](https://cyclic-traffic-ddc.notion.site/536296a8a6d945cb9d2e2204e3054758) : Notion 기반 웹 포트폴리오
 - [LinkedIn](https://www.linkedin.com/in/huns/) : 온라인 기술 교류 및 네트워킹을 위한 SNS
 
 <br />
