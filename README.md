@@ -31,3 +31,12 @@
 - 2023.07 NextJs 한글 문서 번역([#259 - eslint.mdx](https://github.com/Nextjs-kr/Nextjs.kr/pull/259))
 - 2023.06 React 한글 문서 번역([#687 - React Conf 2021 Recap](https://github.com/reactjs/ko.react.dev/pull/687))
 - 2023.05 React 한글 문서 번역([#650 - Updating arrays in state](https://github.com/reactjs/ko.react.dev/pull/650))
+
+<br />
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Orchemi&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Orchemi"
+  width="300"
+/>
+</a>
